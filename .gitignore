@@ -3,6 +3,8 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+Log/
+Log/UserManagementApp.log
 
 ### STS ###
 .apt_generated
